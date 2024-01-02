@@ -18,25 +18,9 @@ The QR Coding Campaign Dashboard is a powerful tool designed to streamline and m
    - Measure the conversion rate from QR code scans to desired actions (e.g., website visits, purchases).
    - Identify high-performing QR codes and areas for improvement.
 
-4. **Geographical Insights:**
-   - Visualize the geographic distribution of QR code scans using interactive maps.
-   - Identify regions with the highest and lowest engagement.
-
-5. **Device and Platform Analytics:**
-   - Gain insights into the devices and platforms used by users to scan QR codes.
-   - Optimize content and user experience based on device preferences.
-
 6. **Time-Based Trends:**
    - Explore trends in QR code scans over time (daily, weekly, monthly).
    - Identify peak hours and days for maximum engagement.
-
-7. **User Demographics:**
-   - Collect and analyze demographic information of users who interact with QR codes.
-   - Tailor future campaigns based on the target audience.
-
-8. **Error Tracking:**
-   - Monitor instances of failed scans or errors and take corrective actions.
-   - Ensure a seamless user experience by addressing potential issues promptly.
 
 9. **Campaign ROI:**
    - Calculate the return on investment for your QR coding campaign.
@@ -45,11 +29,6 @@ The QR Coding Campaign Dashboard is a powerful tool designed to streamline and m
 10. **Customizable Reports:**
     - Easily generate and export customizable reports for stakeholders.
     - Share insights and performance metrics with key decision-makers.
-
-**How to Use:**
-
-1. **Data Input:**
-   - Enter QR code details, distribution channels, and campaign parameters into the designated input sheets.
 
 2. **Automated Calculations:**
    - The dashboard automatically calculates key metrics based on the input data.

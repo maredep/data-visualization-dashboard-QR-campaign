@@ -2,6 +2,9 @@
 
 The QR Coding Campaign Dashboard is a powerful tool designed to streamline and monitor your QR code-based marketing initiatives. This Excel-based dashboard provides a comprehensive overview of key metrics, allowing you to assess the performance of your campaign in real-time and make informed decisions to optimize results.
 
+### Dashboard
+![alt text](Dashboard.png)
+
 **Key Features:**
 
 1. **Campaign Overview:**
